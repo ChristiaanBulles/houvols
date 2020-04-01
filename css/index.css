@@ -9,6 +9,10 @@ html {
     z-index: 99;
 }
 
+.topping {
+    padding-top: 70px;
+}
+
 img {
     height: 70vh;
     width: auto;
